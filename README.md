@@ -2,7 +2,7 @@
 
 This is a Chrome extension that uses Google's Gemini API to  summarize any article into brief, detailed, or bullet point formats. 
 
-## ✨ Features
+##  Features
 
 - **Multiple Summary Formats**: Choose from brief, detailed, or bullet point summaries
 - **One-Click Summarization**: Get instant summaries with a single click
@@ -11,7 +11,7 @@ This is a Chrome extension that uses Google's Gemini API to  summarize any artic
 - **Dark Theme**: Easy on the eyes with a modern dark interface
 - **Secure**: Your API key is stored locally in Chrome storage
 
-## 🚀 Installation
+##  Installation
 
 ### Method: Manual Installation
 1. Download or clone this repository
@@ -20,7 +20,7 @@ This is a Chrome extension that uses Google's Gemini API to  summarize any artic
 4. Click "Load unpacked" and select the extension folder
 5. The extension will appear in your toolbar
 
-## 🔑 Setup
+##  Setup
 
 ### Getting Your Gemini API Key
 1. Visit [Google AI Studio](https://makersuite.google.com/app/apikey)
@@ -34,7 +34,7 @@ This is a Chrome extension that uses Google's Gemini API to  summarize any artic
 3. Paste your Gemini API key in the input field
 4. Click "Save Settings"
 
-## 📖 How to Use
+##  How to Use
 
 1. **Navigate** to any article or webpage you want to summarize
 2. **Click** the Insight AI extension icon in your toolbar
@@ -45,7 +45,7 @@ This is a Chrome extension that uses Google's Gemini API to  summarize any artic
 4. **Click** "Summarize" to generate the summary
 5. **Use** the "Copy" button to save the summary to your clipboard
 
-## 🎯 Use Cases
+##  Use Cases
 
 - **Students**: Quickly summarize research papers and articles
 - **Professionals**: Stay updated with industry news during busy schedules
@@ -53,10 +53,11 @@ This is a Chrome extension that uses Google's Gemini API to  summarize any artic
 - **Content Creators**: Get inspiration and understand trending topics
 - **Casual Readers**: Save time on long-form content
 
-## 🔧 Technical Details
+##  Technical Details
 
 - **AI Model**: Google Gemini 2.0 Flash
 - **API**: Google Generative AI API
 - **Storage**: Chrome Extension Storage API
 - **Content Scripts**: For intelligent text extraction
 - **Security**: All processing happens locally, no data stored on external servers
+
